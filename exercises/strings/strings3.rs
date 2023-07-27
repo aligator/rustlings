@@ -3,10 +3,9 @@
 // Execute `rustlings hint strings3` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
 fn trim_me(input: &str) -> String {
-    input.to_string().trim.to_string()
+    input.to_string().trim().to_string()
 }
 
 fn compose_me(input: &str) -> String {
